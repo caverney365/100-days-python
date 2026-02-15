@@ -8,4 +8,4 @@
 ## Project
 Create a rock, paper, scissors game.
 My code are different from the tutor/instructor but result is the same.
-My code are simpler but not easy to read.
+My code are simpler but harder to read than the tutor's.
